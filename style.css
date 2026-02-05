@@ -1,0 +1,31 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url("kitty.jpg");
+}
+.main-div {
+  background-color: #f0f0f0;
+  padding: 20px;
+  border-radius: 5px;
+  display: flex;
+  justify-content: center;
+  margin-top: auto;
+}
+img {
+  max-width: 100%;
+  height: auto;
+  justify-self: center;
+}
+#valentineSad {
+  display: none;
+}
+.question {
+  font-size: 2rem;
+  margin-top: 2rem;
+  padding: 0.5rem;
+  background-color: #f0f0f0;
+}
+#yesValentine {
+  display: none;
+}
